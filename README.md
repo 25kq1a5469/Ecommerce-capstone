@@ -1,3 +1,8 @@
+# NeuraForge E-Commerce Capstone
+
+## Live Demo
+
+https://ecommerce-capstone-hazel.vercel.app/
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
